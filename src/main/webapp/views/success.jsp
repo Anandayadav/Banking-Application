@@ -1,0 +1,1 @@
+<center><h1 style="color: red;">Hello, ${Name} you have opened account in our bank......</h1></center>
